@@ -1,0 +1,27 @@
+body{
+background-color: cadetblue;
+
+}
+.container{
+    display: flex;
+}
+
+nav{
+    display: flex;
+   flex-direction:center;
+   justify-content: space-between;
+   justify-content: center;
+   background-color:gray;
+}
+nav img{
+    background-color: gray;
+    width: 120px;
+  justify-content: space-between;
+  align-items: flex-start;
+  
+}
+.card{
+    width: 150px;
+    
+}
+
